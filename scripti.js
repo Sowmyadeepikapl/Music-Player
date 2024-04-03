@@ -28,25 +28,11 @@ const music_list = [
         music : 'images/chaleya.mp3'
     },
     {
-        img : 'images/orange.jpg',
-        name : 'Nenu Nuvvantu',
-        artist : 'Naresh Iyer,Nadeesh,U.V.Jackey',
-        music : 'images/nenu nuvvantu.mp3'
+     img : 'images/lover.jpg',      
+        name : 'lover',
+        artist : 'taylor swift',
+        music : 'images/lover.mp3'
     },
-    {
-        img : 'images/leo.jpg',
-        name : 'Ordinary Person',
-        artist : 'Anirudh Ravichandar,Nikitha Gandhi',
-        music : 'images/ordinary person.mp3'
-    },
-    
-    
-      {
-        img : 'images/maayo.jpg',
-        name : 'Maayo',
-        artist : 'A.R.Rahman,Shwetha Mohan,Sid Sriram',
-        music : ' images/maayo.mp3'
-    }
 ];  
 
 loadTrack(track_index);
